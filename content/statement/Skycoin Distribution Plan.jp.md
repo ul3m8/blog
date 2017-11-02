@@ -60,4 +60,4 @@ There is no requirement that the yearly 5% be distributed. The unlock only
 enables that amount to be distributed.
 
 The locked Skycoin are allocated for expansion of the Skywire Network via
-targeted network subsidies and for bounties for platform development.
+targeted network subsidies and .for bounties for platform development.
