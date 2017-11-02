@@ -1,5 +1,5 @@
 +++
-title = "Skycoin Distribution Plan"
+title = "スカイコーナー配給計画"
 tags = [
     "Statement",
 ]
